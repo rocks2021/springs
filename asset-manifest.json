@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/springs/static/css/main.dfcc3946.chunk.css",
+    "main.js": "/springs/static/js/main.98ac6b5e.chunk.js",
+    "main.js.map": "/springs/static/js/main.98ac6b5e.chunk.js.map",
+    "runtime-main.js": "/springs/static/js/runtime-main.b380ba41.js",
+    "runtime-main.js.map": "/springs/static/js/runtime-main.b380ba41.js.map",
+    "static/js/2.556056d4.chunk.js": "/springs/static/js/2.556056d4.chunk.js",
+    "static/js/2.556056d4.chunk.js.map": "/springs/static/js/2.556056d4.chunk.js.map",
+    "static/js/3.b9279672.chunk.js": "/springs/static/js/3.b9279672.chunk.js",
+    "static/js/3.b9279672.chunk.js.map": "/springs/static/js/3.b9279672.chunk.js.map",
+    "index.html": "/springs/index.html",
+    "static/css/main.dfcc3946.chunk.css.map": "/springs/static/css/main.dfcc3946.chunk.css.map",
+    "static/js/2.556056d4.chunk.js.LICENSE.txt": "/springs/static/js/2.556056d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b380ba41.js",
+    "static/js/2.556056d4.chunk.js",
+    "static/css/main.dfcc3946.chunk.css",
+    "static/js/main.98ac6b5e.chunk.js"
+  ]
+}
