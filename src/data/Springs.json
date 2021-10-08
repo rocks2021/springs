@@ -1,0 +1,63 @@
+[
+
+ {
+   "Id": 1,
+   "Location": "Moapa Valley",
+   "Latitude": 36.7567,
+   "Longitude": -114.72
+ },
+ {
+   "Id": 2,
+   "Location": "Hiko Springs",
+   "Latitude": 37.5982,
+   "Longitude": -115.2153
+ },
+ {
+   "Id": 3,
+   "Location": "Crystal Springs",
+   "Latitude": 37.5319,
+   "Longitude": -115.2325
+ },
+ {
+   "Id": 4,
+   "Location": "Ash Springs",
+   "Latitude": 37.4636,
+   "Longitude": -115.1925
+ },
+ {
+   "Id": 5,
+   "Location": "Alamo Lake",
+   "Latitude": 37.3123,
+   "Longitude": -115.1259
+ },
+ {
+   "Id": 6,
+   "Location": "Arnoldson Spring",
+   "Latitude": 38.909107,
+   "Longitude": -115.063355
+ },
+ {
+   "Id": 7,
+   "Location": "Cold Spring",
+   "Latitude": 38.918001,
+   "Longitude": -115.066681
+ },
+ {
+   "Id": 8,
+   "Location": "Preston Big Spring",
+   "Latitude": 38.933553,
+   "Longitude": -115.081406
+ },
+ {
+   "Id": 9,
+   "Location": "Lund Spring",
+   "Latitude": 38.849943,
+   "Longitude": -115003349
+ },
+ {
+   "Id": 10,
+   "Location": "Shingle Spring",
+   "Latitude": 38.539671,
+   "Longitude": -114.935562
+ }
+]
